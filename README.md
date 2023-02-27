@@ -19,6 +19,9 @@
 <tr>
     <td>Mathematics</td>
 </tr>
+<tr>
+    <td>Python Programming</td>
+</tr>
 </table>
 
 <h2>Thanks for reaching here if u like my work then star this repository for your future helps</h2>
